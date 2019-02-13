@@ -19,6 +19,6 @@ The classes in this project demonstrate one way of structuring a program for sto
 *Hint: you might want to use a LinkedList format to make this easier to manage. See the [5 minute guide](https://medium.com/@jillplatts/6-minute-beginners-guide-to-java-s-linked-list-data-structure-bb2fbcca81b1) for more details.*
 7. A car park contains a number of cars. Make a class to represent a car park with a maximum of 20 spaces.
 
-##Resources
+## Resources
 * [Oracle's official Java guide to OOP](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 * [Handy infographic guide to Java OOP](https://raygun.com/blog/images/oop-concepts-java/oops-concepts-infographic.png)
