@@ -3,10 +3,10 @@ This repository contains a basic program implementing Java classes for vehicles.
 
 Vehicles help us move from A to B, yet come in many different forms. For example, cars and bicycles have wheels whilst boats don't; some vehicles can carry passengers whilst bikes can't.
 
-== Getting started ==
+## Getting started
 To get started with this code, click the `Clone or download` button in the top right, and `Download ZIP`. You can then open the project in Netbeans.
 
-== Exercises ==
+## Exercises 
 
 The classes in this project demonstrate one way of structuring a program for storing and manipulating vehicles within a Java program. After watching the lecture video, try some of the following exercises:
 
