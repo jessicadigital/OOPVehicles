@@ -22,3 +22,4 @@ The classes in this project demonstrate one way of structuring a program for sto
 ## Resources
 * [Oracle's official Java guide to OOP](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 * [Handy infographic guide to Java OOP](https://raygun.com/blog/images/oop-concepts-java/oops-concepts-infographic.png)
+* [Learn Java Online](https://www.learnjavaonline.org/en/Objects)
