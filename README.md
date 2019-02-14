@@ -18,6 +18,7 @@ The classes in this project demonstrate one way of structuring a program for sto
 6. A train is a completely different form of transport running on rails, and constructed of many individual vehicles. Create a `Train` class that can have multiple `Carriage` objects attached to it.
 *Hint: you might want to use a LinkedList format to make this easier to manage. See the [5 minute guide](https://medium.com/@jillplatts/6-minute-beginners-guide-to-java-s-linked-list-data-structure-bb2fbcca81b1) for more details.*
 7. A car park contains a number of cars. Make a class to represent a car park with a maximum of 20 spaces.
+8. Aeroplanes are a completely different form of vehicle. Create a new class to represent aeroplanes.
 
 ## Resources
 * [Oracle's official Java guide to OOP](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
